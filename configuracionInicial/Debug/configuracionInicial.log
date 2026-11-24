@@ -1,0 +1,20 @@
+﻿  Iluminacion.cpp
+C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\configuracionInicial\modelAnim.h(91,53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Iluminacion.cpp")
+  
+C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\configuracionInicial\modelAnim.h(340,30): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Iluminacion.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "Iluminacion.cpp")
+      C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\External Libraries\GLFW\include\GLFW\glfw3.h(98,11):
+      vea la definición anterior de “APIENTRY”
+  
+C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\configuracionInicial\Iluminacion.cpp(667,25): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\configuracionInicial\Iluminacion.cpp(750,69): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\configuracionInicial\Iluminacion.cpp(751,70): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\configuracionInicial\Iluminacion.cpp(752,71): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  configuracionInicial.vcxproj -> C:\Users\angel\OneDrive\Documentos\CGeIHC\proyectoLaboratorioCompuGrafica\proyectoTeoriaCompuGrafica\Debug\configuracionInicial.exe

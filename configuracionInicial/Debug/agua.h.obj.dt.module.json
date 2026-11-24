@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\agua.obj",
+            "outputs": [
+                "Debug\\agua.h.obj.dt.module.json",
+                "Debug\\agua.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
